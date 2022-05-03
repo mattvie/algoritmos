@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include <vector>
 #define MAX_N 16
 
 using namespace std;
