@@ -6,7 +6,7 @@ using namespace std;
 
 int results[MAX_N], coins[5]={50, 25, 10, 5, 1};
 
-int gen_results() {
+void gen_results() {
 	int i, j;
 	results[0]=1;
 	
